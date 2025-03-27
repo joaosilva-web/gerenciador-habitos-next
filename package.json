@@ -1,0 +1,19 @@
+{
+  "name": "gerenciador-habitos-next",
+  "version": "1.0.0",
+  "description": "Aprenda a usar o poder da versão 13+ do Next.js construindo um gerenciador de hábitos!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "João Gustavo Ribeiro da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
